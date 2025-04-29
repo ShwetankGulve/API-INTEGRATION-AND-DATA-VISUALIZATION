@@ -12,6 +12,12 @@ DURATION : 4 MONTHS
 
 MENTOR : NEELA SANTOSH
 
-Python script to visualize 5-day weather forecast using OpenWeatherMap API.
+Python script to visualize 5-day weather forecast using OpenWeatherMap API
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/19359296-3959-4634-8338-6908ce114d9a)
+
+
 
 
